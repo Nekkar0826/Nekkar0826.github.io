@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的第一篇博客</title>
+    <url>/2022/04/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>这是我的第一篇Hexo博客文章。</p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>随笔测试</title>
     <url>/2022/04/04/%E9%9A%8F%E7%AC%94%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>这是一篇随笔测试。</p>
@@ -10,12 +19,26 @@
       </tags>
   </entry>
   <entry>
-    <title>我的第一篇博客</title>
-    <url>/2022/04/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>这是我的第一篇Hexo博客文章。</p>
+    <title>日语语法学习1</title>
+    <url>/2022/04/05/%E6%97%A5%E8%AF%AD%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A01/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="自动词与他动词"><a href="#自动词与他动词" class="headerlink" title="自动词与他动词"></a>自动词与他动词</h1><h2 id="自动词"><a href="#自动词" class="headerlink" title="自动词"></a>自动词</h2><p>不需要宾语便可完整表达含义。多用来表示事物的状态或变化。</p>
+<p>寝る　運動する　働く　笑う  ——动作、变化</p>
+<p>優れる　疲れる　壊れる  ——状态</p>
+<p>私はよく運動場で運動します。</p>
+<p>日本の電子製品は優れています。</p>
+<h2 id="他动词"><a href="#他动词" class="headerlink" title="他动词"></a>他动词</h2><p>聞く　読む　食べる　洗う</p>
+<p>を：格助词，对他动词的宾语进行提示。</p>
+<p>动宾关系：宾语+を+他动词</p>
+<p>学生は毎朝日本語を朗読します。（朗読する）</p>
+<p>私は食堂で朝ご飯を食べます。（食べる）</p>
+<p><a href="https://www.bilibili.com/video/BV1m7411B7eK">学习视频地址</a></p>
 ]]></content>
+      <categories>
+        <category>日语</category>
+      </categories>
       <tags>
-        <tag>Hexo</tag>
+        <tag>学习笔记</tag>
+        <tag>语法</tag>
       </tags>
   </entry>
 </search>
